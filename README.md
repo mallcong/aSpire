@@ -1,5 +1,5 @@
 # aSpire User Study Survey Forms
-- Pre-survey: demographics, PSS, PHQ
+- Pre-survey: demographics, PSS
 - Segment survey
 - Post-survey
 
